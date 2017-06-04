@@ -2,7 +2,8 @@
 ## 
 ## makeCacheMatrix(x=matrix()) - creates a list for caching of matrices
 ## cacheSolve(specialMatrix)   - fills cache initially and uses it subsequently
-## createAndExecTest           - test function
+## 
+## please find test data at the bottom
 
 ## create special "matrix" (actually a list) to cache inverted matrix
 
